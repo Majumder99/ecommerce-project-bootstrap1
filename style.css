@@ -1,0 +1,46 @@
+.container {
+  margin-bottom: 100px;
+}
+.bg-option {
+  background-color: #feeae9;
+  border-radius: 10px;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+.carousel-control-prev-icon {
+  margin-right: 150px;
+}
+.carousel-control-next-icon {
+  margin-left: 150px;
+}
+.price {
+  color: #ff5397;
+}
+.panda-btn-buy-now {
+  background-color: #ff5397;
+  border: 1px solid #ff5397;
+  border-radius: 10px;
+  color: white;
+  padding: 8px 24px;
+}
+img {
+  margin-left: auto;
+}
+.new-shadow {
+  border: none;
+  box-shadow: 5px 5px 10px grey;
+}
+.form-control {
+  width: 28%;
+  margin-left: 430px;
+}
+.new-button {
+  margin-right: 260px;
+}
+.bg-new {
+  background-color: #feeae9;
+}
+.copywright {
+  font-size: 16px;
+}
